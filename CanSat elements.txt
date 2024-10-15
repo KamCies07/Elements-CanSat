@@ -1,0 +1,7 @@
+Air quality sensor - https://elty.pl/pl/p/PMS5003-czujnik-pylu-jakosci-powietrza-wspolczynnik-PM1.0-PM2.5-PM10/1928?gad_source=1&gclid=CjwKCAjwmaO4BhAhEiwA5p4YL19x57uBcpd4CMCghd3RkXSViJ_UzpPYr70wm1n1XAdGFl3IBBPLFhoC6cUQAvD_BwE
+
+CANSATKIT - https://circuitmaker.com/Projects/Details/Michal-Gumiela/CansatKit-ATSAM
+
+GNSS GPS receiver module - https://botland.com.pl/moduly-gps/22671-gravity-modul-odbiornika-gnss-gps-beidou-i2cuart-dfrobot-tel0157-6959420923199.html
+
+2 x Fired 18650 Li-ion Samsung - https://botland.com.pl/akumulatory-li-ion/23832-ogniwo-18650-li-ion-samsung-inr18650-25r-2500mah-20a.html
